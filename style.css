@@ -18,14 +18,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-.body-meals {
-    background-image: url('images/background-02-port.png');
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+ 
+.meals-body {
+	background-image: url('images/background-02-port.png');
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+} 
 
 /*========== HEADER ==========*/
 
